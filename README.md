@@ -33,8 +33,7 @@ I enjoy transforming raw data into actionable insights that support decision-mak
 
 * Matplotlib
 * Power BI
-* Dashboards
-* KPI Reporting
+* Tableau
 
 ### Data Management
 
@@ -42,6 +41,7 @@ I enjoy transforming raw data into actionable insights that support decision-mak
 * Google Sheets
 * Pivot Tables
 * Data Cleaning
+* KPI Reporting
 
 ### Other
 
@@ -88,7 +88,7 @@ I enjoy transforming raw data into actionable insights that support decision-mak
 
 💼 LinkedIn: www.linkedin.com/in/alfredo-daniel-rios
 
-📧 Email: alfredo.rj94@gmail.co
+📧 Email: alfredo.rj94@gmail.com
 
 ---
 
