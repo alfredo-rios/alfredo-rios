@@ -2,7 +2,7 @@
 
 ## Data Analyst | SQL | Python | Excel | Data Visualization
 
-Industrial Engineer transitioning into Data Analytics with experience in data analysis, KPI reporting, quality evaluation, and process improvement.
+Data Analyst experienced in transforming operational and business data into actionable insights using SQL, Python, Excel, Power BI, and Tableau. Skilled in data cleaning and transformation, exploratory and statistical analysis, KPI monitoring, dashboard development, and root cause analysis. Focused on identifying trends and improvement opportunities, streamlining data preparation processes, and communicating findings to cross-functional teams in international environments.
 
 I enjoy transforming raw data into actionable insights that support decision-making and business performance.
 
@@ -52,24 +52,29 @@ I enjoy transforming raw data into actionable insights that support decision-mak
 
 ---
 
-## Featured Projects
-
-### 🚗 Urban Mobility & Economic Productivity Analysis
-
-Analyzed relationships between traffic congestion, commuting times, and economic indicators using Python and Pandas.
-
-**Tools:** Python, Pandas, Matplotlib, Data Cleaning, EDA
-
----
-
 ## Professional Background
 
-### AXA — Quality Analyst
+### Grupo Santa María | Data Analyst | Project-Based Contract
+
+* Consolidated, cleaned, and standardized historical files
+* Performed exploratory and statistical analysis in Python
+* Built automated Power Query workflows
+* Developed Tableau dashboards to centralize KPIs and compare historical performance
+* Documented data refresh and transformation processes and transferred the workflow to internal staff
+
+### AXA | Data Analyst – Quality
 
 * KPI monitoring and quality evaluations
 * Dashboard creation and reporting
 * Trend analysis and process improvement
 * Executive reporting for management teams
+* Developed SQL queries to segment operational and quality KPIs
+
+###  Management Company | Student Success Data Analyst
+
+* Analyzed student performance and progress data in Excel to identify trends and cases requiring priority attention
+* Prepared recurring KPI reports
+* Tracked academic and operational issues through resolution
 
 ### TechOps — Maintenance Control Analyst
 
@@ -83,24 +88,9 @@ Analyzed relationships between traffic congestion, commuting times, and economic
 
 💼 LinkedIn: www.linkedin.com/in/alfredo-daniel-rios
 
-📧 Email: alfredo9alfa@gmail.com
+📧 Email: alfredo.rj94@gmail.co
 
 ---
 
 *"Data-driven decisions start with understanding the story behind the numbers."*
 
-
-<!--
-**alfredo-rios/alfredo-rios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
